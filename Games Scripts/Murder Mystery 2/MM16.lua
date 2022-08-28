@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/TrixAde/scripts/main/MM2-Xenny-Ware.lua"), true))()

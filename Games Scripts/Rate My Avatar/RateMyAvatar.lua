@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tresks/RAS/main/Rate%20My%20Shitter.lua"))()
